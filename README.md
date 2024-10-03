@@ -1,5 +1,7 @@
 # Nicolas Perez
 ...
+[![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Perez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicol%C3%A1s-p%C3%A9rez-5910711b2)]([https://www.linkedin.com/in/john-finberg](https://www.linkedin.com/in/nicol%C3%A1s-p%C3%A9rez-5910711b2))
+[![Gmail Badge](https://img.shields.io/badge/-nicolas_perez@brown.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolas_perez@brown.edu)](mailto:nicolas_perez@brown.edu)
 ## 🧰 Languages and Tools
 <img align="left" width="30px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" width="30px" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
