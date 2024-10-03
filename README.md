@@ -10,7 +10,6 @@ I am currently working on a [robotics research project](https://github.com/robot
 
 ### 🏫 Education
  - Bachelor's in Computer Science from Brown University
- - 
 ## 🧰 Languages and Tools
 <img align="left" width="30px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" width="30px" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
