@@ -1,6 +1,17 @@
 # Nicolas Perez
 [![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Perez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicol%C3%A1s-p%C3%A9rez-5910711b2)]([https://www.linkedin.com/in/john-finberg](https://www.linkedin.com/in/nicol%C3%A1s-p%C3%A9rez-5910711b2))
 [![Gmail Badge](https://img.shields.io/badge/-nicolas_perez@brown.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolas_perez@brown.edu)](mailto:nicolas_perez@brown.edu)
+### 👋 About Me
+I am a software engineer with a passion for building products that help people. I am also a student at Brown University studying computer science.
+
+In the past I've built Congressional award-winning websites and have made minor contributions to major open source AI projects, such as [llama.cpp](https://github.com/ggerganov/llama.cpp) and [aider](https://github.com/paul-gauthier/aider).
+
+I am currently working on a [robotics research project](https://github.com/robotsasfurniture/passive-sound-localization) that allows robots to be controlled using natural language voice commands with LLMs and to navigate and locate speakers solely through sound.
+
+### 🏫 Education
+ - Bachelor's in Computer Science from Brown University
+
+
 ## 🧰 Languages and Tools
 <img align="left" width="30px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" width="30px" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
