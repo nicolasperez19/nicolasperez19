@@ -1,5 +1,5 @@
 # Nicolas Perez
-[![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Perez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicol%C3%A1s-p%C3%A9rez-5910711b2)]([[https://www.linkedin.com/in/john-finberg](https://www.linkedin.com/in/nicol%C3%A1s-p%C3%A9rez-5910711b2)](https://www.linkedin.com/in/nicol%C3%A1s-p%C3%A9rez-5910711b2))
+[![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Perez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicol%C3%A1s-p%C3%A9rez-5910711b2)](https://www.linkedin.com/in/nicol%C3%A1s-p%C3%A9rez-5910711b2)
 [![Gmail Badge](https://img.shields.io/badge/-nicolas_perez@brown.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolas_perez@brown.edu)](mailto:nicolas_perez@brown.edu)
 ### 👋 About Me
 I am a software engineer with a passion for building products that help people. I am also a student at Brown University studying computer science.
