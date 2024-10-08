@@ -10,6 +10,8 @@ I am currently working on a [robotics research project](https://github.com/robot
 
 ### 🏫 Education
  - Bachelor's in Computer Science from Brown University
+
+<!-- 
 ## 🧰 Languages and Tools
 <img align="left" width="30px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" width="30px" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
@@ -22,6 +24,7 @@ I am currently working on a [robotics research project](https://github.com/robot
 <img align="left" width="30px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />          
 <img align="left" width="30px" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" width="30px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+-->
 <!--
 **nicolasperez19/nicolasperez19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
