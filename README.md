@@ -17,7 +17,7 @@ Bachelor's in Computer Science from [Brown University](https://www.brown.edu/)
 
 ### 💰 Support Me
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nico_perez)
-
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/nicolasperez19)
 <!-- 
 ## 🧰 Languages and Tools
 <img align="left" width="30px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
