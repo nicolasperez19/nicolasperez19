@@ -10,6 +10,8 @@ In the past I've built Congressional award-winning websites and have made minor 
 
 I am currently working on a [robotics research project](https://github.com/robotsasfurniture/passive-sound-localization) that allows robots to be controlled using natural language voice commands with LLMs and to navigate and locate speakers solely through sound.
 
+I also maintain a [MicMasterFlex](https://github.com/nicolasperez19/mic-master-flex), an open-source web app that allows for flexible microphone configuration for robotics projets.
+
 ### 🏫 Education
  - Bachelor's in Computer Science from [Brown University](https://www.brown.edu/)
 
