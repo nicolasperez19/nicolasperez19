@@ -13,7 +13,7 @@ I am currently working on a [robotics research project](https://github.com/robot
 I also maintain a [MicMasterFlex](https://github.com/nicolasperez19/mic-master-flex), an open-source web app that allows for flexible microphone configuration for robotics projets.
 
 ### 🏫 Education
- - Bachelor's in Computer Science from [Brown University](https://www.brown.edu/)
+Bachelor's in Computer Science from [Brown University](https://www.brown.edu/)
 
 ### 💰 Support Me
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nico_perez)
