@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-nicolas_perez@brown.edu-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nicolas_perez@brown.edu)](mailto:nicolas_perez@brown.edu)
 
 ### 👋 About Me
-I am a software engineer with a passion for building products that help people. I am also a student at [Brown University](https://www.brown.edu/) studying Computer Science.
+I am a software engineer with a passion for building products that help people. I am also a student at [Brown University](https://www.brown.edu/) studying Computer Science. I am also the CTO for [Kokoro Health Studios](https://kokorohealthstudios.com/).
 
 In the past I've built Congressional award-winning websites and have made minor contributions to major open source AI projects, such as [llama.cpp](https://github.com/ggerganov/llama.cpp) and [aider](https://github.com/paul-gauthier/aider).
 
