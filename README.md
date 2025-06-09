@@ -8,9 +8,17 @@ I am a software engineer with a passion for building products that help people. 
 
 In the past I've built Congressional award-winning websites and have made minor contributions to major open source AI projects, such as [llama.cpp](https://github.com/ggerganov/llama.cpp) and [aider](https://github.com/paul-gauthier/aider).
 
-I am currently working on a robotics research project called [Robots as Furniture](https://github.com/robotsasfurniture/passive-sound-localization) that allows robots to be controlled using natural language voice commands with LLMs and to navigate and locate speakers solely through sound.
+I worked on a robotics research project called [Robots as Furniture](https://github.com/robotsasfurniture/passive-sound-localization), which allows robots to be controlled using natural language voice commands with LLMs and to navigate and locate speakers solely through sound. The project has a provisional utility patent.
 
-I also maintain a [MicMasterFlex](https://github.com/nicolasperez19/mic-master-flex), an open-source web app that allows for flexible microphone configuration for robotics projets.
+I’m currently doing freelance web development, with a focus on creating portfolio websites for artists and creatives. My goal is to help them present their work online in a way that’s visually compelling, easy to manage, and tailored to their unique style.
+
+
+### Screenshots of Previous Freelance Web Development Work
+<p align="center">
+  <img width="400" alt="Pop City Strings Landing Page" src="https://github.com/user-attachments/assets/7c6b4439-6f3f-4c60-bbf2-10a9cf34a871" />
+  <img width="400" alt="Okapi Sports Intelligence Landing Page" src="https://github.com/user-attachments/assets/0b772454-a453-4805-9c63-b1c71a43fb92" />
+</p>
+
 
 ### 💼 Work
 CTO for [Kokoro Health Studios](https://kokorohealthstudios.com/)
