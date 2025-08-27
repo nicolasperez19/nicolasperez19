@@ -21,7 +21,7 @@ I’m currently doing freelance web development, with a focus on creating portfo
 
 
 ### 💼 Work
-* CTO for [Kokoro Health Studios](https://kokorohealthstudios.com/)
+* CTO for [The Workshoppes](https://theworkshoppes.com/)
 * Freelance web developer for Web Locomotion
 
 ### 🏫 Education
