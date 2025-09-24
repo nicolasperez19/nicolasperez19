@@ -1,7 +1,7 @@
 # Nicolas Perez
 [![Schedule a Meeting](https://img.shields.io/badge/Calendly-006BFF.svg?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/nico_perez/30min)
 [![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Perez-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicol%C3%A1s-p%C3%A9rez-5910711b2)](https://www.linkedin.com/in/nicol%C3%A1s-p%C3%A9rez-5910711b2)
-[![Gmail Badge](https://img.shields.io/badge/-nicolas_perez@brown.edu-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nicolas_perez@brown.edu)](mailto:nicolas_perez@brown.edu)
+[![Gmail Badge](https://img.shields.io/badge/-nicolasperezgraham@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nicolasperezgraham@gmail.com)](mailto:nicolasperezgraham@gmail.com)
 
 ### 👋 About Me
 I am a software engineer with a passion for building products that help people. I am also a student at [Brown University](https://www.brown.edu/) studying Computer Science
