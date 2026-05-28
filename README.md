@@ -21,8 +21,8 @@ I’m currently doing freelance web development, with a focus on creating portfo
 
 
 ### 💼 Work
-* CTO for [The Workshoppes](https://theworkshoppes.com/)
-* Full-stack developer for [Okapi Sports Intelligence](https://www.okapisportsintel.com/)
+* Chief Information Officer for [AEGLE Health Club](https://aeglehealthclubs.com/)
+* ex-Full-stack developer for [Okapi Sports Intelligence](https://www.okapisportsintel.com/)
 * Freelance web developer for Web Locomotion
 
 ### 🏫 Education
